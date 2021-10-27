@@ -1,2 +1,1 @@
-# Newton-s-Law
-law of gravuty
+# NC27
